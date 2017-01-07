@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/screeps-user-script-debug-mod.png)](https://npmjs.org/package/screeps-user-script-debug-mod)
+
 # screeps-user-script-debug-mod
 Local server mod for debugging user scripts.
 
