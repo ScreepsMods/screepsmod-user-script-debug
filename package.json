@@ -1,5 +1,5 @@
 {
-  "name": "screeps-user-script-debug-mod",
+  "name": "screepsmod-user-script-debug",
   "version": "0.1.0",
   "main": "debug-runner.js",
   "screeps_mod": true

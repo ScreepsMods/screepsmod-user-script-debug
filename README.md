@@ -1,6 +1,6 @@
-[![NPM](https://nodei.co/npm/screeps-user-script-debug-mod.png)](https://npmjs.org/package/screeps-user-script-debug-mod)
+[![NPM](https://nodei.co/npm/screepsmod-user-script-debug.png)](https://npmjs.org/package/screepsmod-user-script-debug)
 
-# screeps-user-script-debug-mod
+# screepsmod-user-script-debug
 Local server mod for debugging user scripts.
 
 Launches runner with --debug 6001, disables relaunch, gives all users infinite CPU.
