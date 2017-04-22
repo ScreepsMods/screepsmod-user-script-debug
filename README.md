@@ -24,7 +24,10 @@ Create launch configuration `.vscode/launch.json`
 			"request": "attach",
 			"name": "Attach to Process",
 			"port": 6001,
+			"protocol": "legacy"
 		}
 	]
 }
 ```
+
+Some versions of VSCode might behave [funny](https://github.com/Microsoft/vscode/issues/24298) with screeps. If you have other bots on the server and get dropped into wrong bot on a breakpoint, consider disabling all bots but yours or downgrading IDE.
